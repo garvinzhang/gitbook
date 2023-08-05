@@ -290,8 +290,6 @@ UPDATE db.table SET FirstName = 'Fred' WHERE LastName = 'Wilson';
 DELETE FROM db.table WHERE FirstName = 'Fred';
 ```
 
-### Hive
-
 ### Mongo
 
 ### Kafka

@@ -295,4 +295,3 @@ DELETE FROM db.table WHERE FirstName = 'Fred';
 ### Mongo
 
 ### Kafka
-

@@ -12,6 +12,15 @@ git config --global user.email "xxx@xxx.com"
 git config --global user.name "xxx"
 ```
 
+- git提交去掉代理（和goproxy大致一样的逻辑）
+
+//取消http代理
+git config --global --unset http.proxy
+//取消https代理 
+git config --global --unset https.proxy
+
+这样就方便push代码了
+
 - 提交规范
 
 | 提交标签 | 意义                                              |

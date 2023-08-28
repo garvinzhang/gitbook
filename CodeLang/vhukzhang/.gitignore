@@ -1,0 +1,11 @@
+__pycache__
+
+*.log
+*.png
+*.csv
+# *.zip
+
+tmp/mk/*
+tmp/zs/*
+
+*.idea

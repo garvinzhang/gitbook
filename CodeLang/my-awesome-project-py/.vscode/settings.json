@@ -1,0 +1,21 @@
+{
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": true,
+  "python.linting.pylintArgs": [
+    "--disable=C0413", //import 排序
+    "--disable=C0116", //函数注释
+    "--disable=C0115", //类的注释
+    "--disable=C0114" //python文件的顶部说明
+    //   "--disable=C0201",
+    //   "--disable=C0116",
+    //   "--disable=E0704",
+    //   "--disable=W0718",
+    //   "--disable=W1203",
+    //   "--disable=W1201"
+  ],
+  "python.analysis.extraPaths": ["./lib"],
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.formatting.provider": "none"
+}

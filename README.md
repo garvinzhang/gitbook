@@ -1,13 +1,5 @@
-# gitbook
+# GitBook
 
-## DevBase
+Stay hungry, Stay foolish.
 
-开发基础技能
-
-## DataBase
-
-数据库
-
-## DevLang
-
-开发语言
+Good things take a long time.

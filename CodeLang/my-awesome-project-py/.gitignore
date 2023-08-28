@@ -1,0 +1,10 @@
+# demo file
+*demo*
+*temp*
+
+# config
+# .vscode
+
+# cache
+*.log
+__pycache__
